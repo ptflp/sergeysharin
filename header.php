@@ -43,4 +43,9 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/style.css">
 	<?php wp_head(); ?>
 </head>
+<<<<<<< HEAD
 <body>
+=======
+<body>
+<?php body_class(); ?>
+>>>>>>> origin/master
